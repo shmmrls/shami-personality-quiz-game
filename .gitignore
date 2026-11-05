@@ -1,0 +1,12 @@
+# Compiled output
+*.exe
+*.o
+*.out
+a.out
+
+# IDE files
+.vscode/
+.vs/
+*.dev
+*.layout
+*.depend
