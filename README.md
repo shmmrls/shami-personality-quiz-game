@@ -41,8 +41,8 @@ vegetable, or type of adventurer you are, complete with strengths and challenges
 
 ```bash
 # Clone the repository
-git clone https://github.com/shmmrls/PROJECT-ENTERTAINMENT-.git
-cd PROJECT-ENTERTAINMENT-
+git clone https://github.com/shmmrls/shami-personality-quiz-game.git
+cd shami-personality-quiz-game
 
 # Compile
 g++ -std=c++11 shami-personality-quiz.cpp -o shami-quiz
